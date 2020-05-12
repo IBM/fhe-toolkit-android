@@ -1,3 +1,3 @@
 
 
-  The Android toolkit is coming soon! Stay tuned!
+The IBM Fully Homomorphic Encryption Toolkit for Android is coming soon! Check back often!
